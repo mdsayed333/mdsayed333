@@ -3,7 +3,7 @@
 ## Hi there👋, I'm ABU SAYED
 #### ✨ MERN Stack Web Developer ✨
 
-I’m a full stack web developer. I’m skilled at MERN stack web development and using those related tools, technology and library. I like to create websites and programming is my passion. I’m passionate about learning new technology. I always make sure my skills are kept up to date in this fast changing industry.
+I’m a MERN stack web developer. I’m skilled at MERN stack web development and using those related tools, technology and library. I like to create websites and programming is my passion. I’m passionate about learning new technology. I always make sure my skills are kept up to date in this fast changing industry.
 <!--
 Skills: REACT / JS / HTML / CSS / NODE
 -->
