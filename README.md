@@ -26,11 +26,12 @@ Skills: REACT / JS / HTML / CSS / NODE
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsayed333&show_icons=true&count_private=true)  
 
-
+<!--
 ![GitHub metrics](https://metrics.lecoq.io/mdsayed333)  
-
+-->
+<!--
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdsayed333)  
-
+-->
 
 
 
